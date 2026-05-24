@@ -29,16 +29,16 @@ const About: React.FC = () => {
             </div>
             <div className="md:w-2/3 text-lg text-gray-700 dark:text-gray-300">
               <p className="mb-4 leading-relaxed font-medium">
-                Hi, I'm Mohd Maaz — a Machine Learning Developer and educator who loves building real solutions and explaining complex things simply.
+                Hi, I'm Mohd Maaz, a Machine Learning Developer and educator who loves building real solutions and explaining complex things simply.
               </p>
               <p className="mb-4 leading-relaxed">
-                I've built and deployed end-to-end ML projects — from a YouTube Comment Analyzer using NLP and LightGBM, to a Multiple Disease Predictor for Diabetes, PCOS, and Heart Disease. I've designed university-level Data Analytics syllabi, guided students in choosing the right learning path, and helped professionals work with data tools.
+                I've built and deployed end-to-end ML projects, from a YouTube Comment Analyzer using NLP and LightGBM, to a Multiple Disease Predictor for Diabetes, PCOS, and Heart Disease. I've guided students in choosing the right learning path, and helped professionals work with data tools.
               </p>
               <p className="mb-4 leading-relaxed">
-                My approach to any problem — understand the what, the why, and the how before writing a single line of code.
+                My approach to any problem : understand the what, the why, and the how before writing a single line of code.
               </p>
               <p className="mb-4 leading-relaxed">
-                I hold a BCA and MCA from Integral University — 10/10 CGPA, University Topper both times.
+                I hold a BCA and MCA from Integral University, 10/10 CGPA, University Topper both times.
               </p>
               <p className="mb-8 leading-relaxed">
                 Open to freelance ML projects, tutoring, and collaborations. <strong className="text-gray-900 dark:text-white">Let's build something meaningful.</strong>
