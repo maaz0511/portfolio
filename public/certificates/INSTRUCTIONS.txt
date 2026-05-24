@@ -1,0 +1,7 @@
+This folder is for certificate images. Upload images here and name them:
+- kaggle.png
+- fastapi.png
+- gemini.png
+- research.png
+- udemy.png
+Then they will automatically show up in the portfolio!

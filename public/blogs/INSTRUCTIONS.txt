@@ -1,0 +1,6 @@
+This folder is for blog images. Upload images here and name them:
+- mlops.png
+- monolithic.png
+- mlflow.png
+- data-science.png
+Then they will automatically show up in the portfolio!

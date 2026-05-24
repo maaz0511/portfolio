@@ -1,0 +1,6 @@
+This folder is for project images. Upload images here and name them:
+- vision-tales.png
+- shade-analyzer.png
+- health-sage.png
+- youtube-analyzer.png
+Then they will automatically show up in the portfolio!
