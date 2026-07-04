@@ -166,4 +166,11 @@ export const CERTIFICATES: Certificate[] = [
     url: 'https://drive.google.com/file/d/1BaQyfm07Ielohhgkta3PTZpzBdhMLAEA/view?usp=drive_link',
     image: '/certificates/web-scraping.jpg' // Upload your image to public/certificates/ as web-scraping.png
   },
+    { 
+    id: '6', 
+    title: 'Claude AI: From Basics to Build', 
+    issuer: 'PWSkills', 
+    url: 'https://drive.google.com/file/d/1_aQWmptQ16Oo4hoj6oviepuFLy0d5t6J/view?usp=drive_link',
+    image: '/certificates/Claude-Code.png' // Upload your image to public/certificates/ as web-scraping.png
+  },
 ];
